@@ -1,5 +1,9 @@
 # CircleIndicator
 The circle indicator for ViewPager.
+
+# Screenshot
+![](https://github.com/rhinoSp/CircleIndicator/blob/master/screencut/screencut.gif)  
+
 # Question / Contact Me / Hire Me
 
 Please feel free to ping me at rhino_luo@163.com.
